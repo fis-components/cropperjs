@@ -1,0 +1,13 @@
+{
+    "name": "cropperjs",
+    "description": "JavaScript image cropper.",
+    "repos": "https://github.com/fengyuanchen/cropperjs.git",
+    "main": "cropper.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.5.0"
+}
